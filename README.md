@@ -2,6 +2,8 @@
 
 Practice project from Jonas Schmedtmann's JavaScript course. I built it while learning DOM manipulation, then rebuilt the interface in Webflow.
 
+![guess-my-number screenshot](screenshot.jpg)
+
 ## What it does
 
 The page picks a secret number between 1 and 20. You guess, and it tells you whether you are too high or too low. You start with 20 points and lose one per wrong guess. The best score in the session is kept as a high score.
